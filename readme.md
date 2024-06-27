@@ -4,20 +4,6 @@
 	Let's have a chat with your friends!
 </p>
 
-## **Who we are**
-We are the team behind Chat App. 5 members of Cohort 6 from the Bright Network Technology Academy!
-
-* April
-	* [Github](https://github.com/AprilGar)
-* Hangqing
-	* [Github](https://github.com/hanqing2001)
-* Joao
-	* [Github](https://github.com/joaopulsz)
-* Migle
-	* [Github](https://github.com/migleambr)
-* Yongran
-  * [Github](https://github.com/YoyoMai98)
-
 ## **Table of Contents**
 * [Project Overview](#project-overview)
 * [This Website Features](#this-website-features)
