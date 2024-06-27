@@ -1,4 +1,4 @@
-# **Chat App**
+# **Chatting Website**
 
 <p align="center">
 	Let's have a chat with your friends!
